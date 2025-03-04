@@ -1,0 +1,8 @@
+pika
+pymongo
+requests
+beautifulsoup4
+selenium
+lxml
+newspaper3k
+language-tool-python
