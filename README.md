@@ -19,7 +19,7 @@ This Web Scraper Service processes URLs by extracting text content, outbound lin
 - **Newspaper3k, lxml** (Text & Links Extraction)
 - **LanguageTool** (Grammar Checking)
 
-Flow Diagram
+## Flow Diagram
 ![NoteGPT-Flowchart-1741069828919](https://github.com/user-attachments/assets/353d2d26-557b-48ac-9787-70988079b0cb)
 
 ## Setup & Installation
